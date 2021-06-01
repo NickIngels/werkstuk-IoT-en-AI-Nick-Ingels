@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+@media screen and (max-width:380px) {
+
+    h2 {
+        margin-left: 25px;
+        font-size: 45px !important;
+    }
+
+    p {
+        margin-left: 25px;
+        font-size: 30px !important;
+    }
+}
