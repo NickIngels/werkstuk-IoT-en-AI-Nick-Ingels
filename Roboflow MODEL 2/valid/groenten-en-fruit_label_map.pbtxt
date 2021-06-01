@@ -1,0 +1,115 @@
+item {
+    name: "appel",
+    id: 1,
+    display_name: "appel"
+}
+item {
+    name: "appelsien",
+    id: 2,
+    display_name: "appelsien"
+}
+item {
+    name: "aubergine",
+    id: 3,
+    display_name: "aubergine"
+}
+item {
+    name: "avocado",
+    id: 4,
+    display_name: "avocado"
+}
+item {
+    name: "cherimoya",
+    id: 5,
+    display_name: "cherimoya"
+}
+item {
+    name: "citroen",
+    id: 6,
+    display_name: "citroen"
+}
+item {
+    name: "druiven",
+    id: 7,
+    display_name: "druiven"
+}
+item {
+    name: "granaatappel",
+    id: 8,
+    display_name: "granaatappel"
+}
+item {
+    name: "kerstomaten",
+    id: 9,
+    display_name: "kerstomaten"
+}
+item {
+    name: "kiwi",
+    id: 10,
+    display_name: "kiwi"
+}
+item {
+    name: "kokosnoot",
+    id: 11,
+    display_name: "kokosnoot"
+}
+item {
+    name: "komkommer",
+    id: 12,
+    display_name: "komkommer"
+}
+item {
+    name: "kool",
+    id: 13,
+    display_name: "kool"
+}
+item {
+    name: "leechee",
+    id: 14,
+    display_name: "leechee"
+}
+item {
+    name: "limoen",
+    id: 15,
+    display_name: "limoen"
+}
+item {
+    name: "paprika",
+    id: 16,
+    display_name: "paprika"
+}
+item {
+    name: "passievrucht",
+    id: 17,
+    display_name: "passievrucht"
+}
+item {
+    name: "peer",
+    id: 18,
+    display_name: "peer"
+}
+item {
+    name: "perzik",
+    id: 19,
+    display_name: "perzik"
+}
+item {
+    name: "prei",
+    id: 20,
+    display_name: "prei"
+}
+item {
+    name: "puntpaprika",
+    id: 21,
+    display_name: "puntpaprika"
+}
+item {
+    name: "radijzen",
+    id: 22,
+    display_name: "radijzen"
+}
+item {
+    name: "wortels",
+    id: 23,
+    display_name: "wortels"
+}
